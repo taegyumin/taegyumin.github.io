@@ -20,7 +20,7 @@ title                    : "Taegyu Min"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "민태규 Taegyu Min"
-description              : "An amazing website."
+description              : "Taegyu Min's Website"
 url                      : "https://taegyumin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,8 +83,6 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
 facebook:
   username               :
   app_id                 :
@@ -107,7 +105,7 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : Taegyu Min
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Back-end Software Engineer"
   location         : "Seoul, South Korea"
@@ -115,22 +113,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: "minimax@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
        url: "https://taegyumin.github.io/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+       url: "https://github.com/taegyumin"
 
 # Site Footer
 footer:
