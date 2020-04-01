@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+저는 민태규라고 합니다.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+코딩하기 좋아하는 24살 주니어 엔지니어입니다.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+컴퓨터, 수학, 통계, 최적화와 관련된 것이라면 어떤 것이든 좋아할 준비가 돼 있습니다.
 
+- Github : https://github.com/taegyumin
+- E-mail : minimax at snu.ac.kr
 
 [jekyll-organization]: https://github.com/jekyll
