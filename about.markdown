@@ -12,5 +12,6 @@ permalink: /about/
 
 - Github : https://github.com/taegyumin
 - E-mail : minimax at snu.ac.kr
+- Calendar : [Google Calendar](https://calendar.google.com/calendar/embed?src=minimax@snu.ac.kr&ctz=Asia/Seoul&pli=1)
 
 [jekyll-organization]: https://github.com/jekyll
