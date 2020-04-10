@@ -11,7 +11,9 @@ permalink: /about/
 컴퓨터, 수학, 통계, 최적화와 관련된 것이라면 어떤 것이든 좋아할 준비가 돼 있습니다.
 
 - E-mail : minimax at snu.ac.kr
-- Github : [https://github.com/taegyumin](https://github.com/taegyumin)
-- Calendar : [바로가기](https://calendar.google.com/calendar/embed?src=minimax@snu.ac.kr&ctz=Asia/Seoul&pli=1)
+- Github : <a href="https://github.com/taegyumin" target="_blank">https://github.com/taegyumin</a>
+- Calendar : <a href="https://calendar.google.com/calendar/embed?src=minimax@snu.ac.kr&ctz=Asia/Seoul&pli=1" target="_blank">바로가기</a>
 
 [jekyll-organization]: https://github.com/jekyll
+
+
