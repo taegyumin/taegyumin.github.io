@@ -21,7 +21,7 @@
 title: Taegyu Min
 email: minimax@snu.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  You know, I love Peng-su.
+  blank
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "taegyumin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  taegyumin
